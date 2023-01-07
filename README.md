@@ -12,13 +12,9 @@ Approaches:-
 
 ![total count](https://user-images.githubusercontent.com/112775752/210276954-3e57fb49-788f-4a77-9a73-1597dc3bda07.png)
 
-![originals](https://user-images.githubusercontent.com/112775752/210276966-6da27859-3d13-4750-8fef-986069709dda.png)
-
 ![rating](https://user-images.githubusercontent.com/112775752/210276992-e33a8b25-d702-47d3-b648-6ed26194f2f0.png)
 
 ![year](https://user-images.githubusercontent.com/112775752/210277008-dcc6c881-2497-4ca2-abb1-64954f7bbb28.png)
-
-![wordcloud](https://user-images.githubusercontent.com/112775752/210277019-7a4ae983-2062-4d59-9baf-f652ed050341.png)
 
 ![heatmap](https://user-images.githubusercontent.com/112775752/210277033-e4b3c839-67b6-4eb5-84b7-dbd7b0b08a48.png)
 
